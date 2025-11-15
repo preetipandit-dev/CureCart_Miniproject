@@ -1,0 +1,12 @@
+[
+  {
+    "id": "o-2001",
+    "date": "2025-10-01",
+    "total": 24.98,
+    "status": "Delivered",
+    "items": [
+      { "productId": "otc-001", "quantity": 2 },
+      { "productId": "rx-001", "quantity": 1 }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "rx-001",
+    "name": "Amoxicillin 500mg",
+    "brand": "MediLife",
+    "category": "Antibiotic",
+    "price": 12.99,
+    "image": "https://placehold.co/150x150/2C7BE5/fff?text=Amoxicillin",
+    "dosage": "500mg",
+    "manufacturer": "MediLife Labs",
+    "requiresPrescription": true
+  },
+  {
+    "id": "otc-001",
+    "name": "Paracetamol 650mg",
+    "brand": "HealWell",
+    "category": "Pain Relief",
+    "price": 4.99,
+    "image": "https://placehold.co/150x150/2C7BE5/fff?text=Paracetamol",
+    "dosage": "650mg",
+    "manufacturer": "HealWell Pharma",
+    "requiresPrescription": false
+  },
+  {
+    "id": "rx-002",
+    "name": "Atorvastatin 20mg",
+    "brand": "CardioCare",
+    "category": "Cholesterol",
+    "price": 18.5,
+    "image": "https://placehold.co/150x150/2C7BE5/fff?text=Atorvastatin",
+    "dosage": "20mg",
+    "manufacturer": "CardioCare Inc",
+    "requiresPrescription": true
+  },
+  {
+    "id": "otc-002",
+    "name": "Cough Syrup",
+    "brand": "Soothe",
+    "category": "Cold & Cough",
+    "price": 6.99,
+    "image": "https://placehold.co/150x150/2C7BE5/fff?text=Cough+Syrup",
+    "dosage": "100ml",
+    "manufacturer": "Soothe Healthcare",
+    "requiresPrescription": false
+  }
+]
